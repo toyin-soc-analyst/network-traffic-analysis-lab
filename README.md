@@ -80,3 +80,8 @@ Understanding these techniques is critical for detecting real-world cyber threat
 - Cybersecurity Enthusiast | SOC Analyst Trainee  
 - GitHub: https://github.com/toyin-soc-analyst
 - Added Network Traffic Analysis Lab (HTTP & DNS investigation)
+- ## 🧾 Key Indicators of Compromise (IOCs)
+
+- Malicious Domain: c2.tryhackme.thn  
+- Suspicious File: install.ps1  
+- Protocol Used: DNS TXT for C2 communication  
